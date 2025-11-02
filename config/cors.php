@@ -8,6 +8,8 @@ return [
     'allowed_origins' => [
         'http://localhost:8100',
         'http://127.0.0.1:8100',
+        'http://localhost:8101',
+        'http://127.0.0.1:8101',
         'capacitor://localhost',
         'ionic://localhost',
     ],
